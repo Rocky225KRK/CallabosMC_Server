@@ -1,0 +1,14 @@
+#Is dimensional travel allowed for home command
+shw_is_dimensional_travel_allowed_for_home = true
+#Cooldown in second before home command can be reused
+#Range: > 0
+shw_home_cooldown = 10
+#Is dimensional travel allowed for waypoints command
+shw_is_dimensional_travel_allowed_for_waypoints = true
+#Cooldown in second before waypoint command can be reused
+#Range: > 0
+shw_waypoints_cooldown = 10
+#Maximum number of waypoints by player
+#Range: 0 ~ 100
+shw_maximum_number_of_waypoints = 10
+
