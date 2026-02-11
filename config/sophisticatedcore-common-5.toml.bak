@@ -1,5 +1,0 @@
-
-#Common Settings
-[common]
-	enabledItems = ["sophisticatedstorage:shulker_box|true", "sophisticatedstorage:iron_to_gold_tier_upgrade|true", "sophisticatedstorage:basic_to_netherite_tier_upgrade|true", "sophisticatedstorage:chest|true", "sophisticatedstorage:limited_barrel_4|true", "sophisticatedstorage:limited_barrel_1|true", "sophisticatedstorage:limited_barrel_2|true", "sophisticatedstorage:stack_upgrade_tier_5|true", "sophisticatedbackpacks:stack_upgrade_starter_tier|true", "sophisticatedstorage:alchemy_upgrade|true", "sophisticatedstorage:packing_tape|true"]
-

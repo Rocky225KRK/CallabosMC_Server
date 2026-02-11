@@ -1,0 +1,26 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "non",
+    "gsg",
+    "non"
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "o": {
+      "item": "minecraft:obsidian"
+    },
+    "g": {
+      "item": "minecraft:golden_apple"
+    },
+    "s": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "irons_spellbooks:keeper_spawn_egg",
+    "count": 1
+  }
+}
