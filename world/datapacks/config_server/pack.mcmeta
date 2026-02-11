@@ -1,0 +1,14 @@
+{
+    "pack":{
+        "pack_format": 15,
+        "description": ["Config DP - ",{"text": "♦RK♦","color": "gold"}]
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "alexsmobs",
+                "path": "capsid_recipes/shattered_dimensional_carver.json"
+            }
+        ]
+    }
+}
