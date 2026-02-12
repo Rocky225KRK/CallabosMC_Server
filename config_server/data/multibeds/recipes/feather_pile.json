@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " FF",
+        "FFF",
+        "FF "
+    ],
+    "key": {
+        "F": { "tag": "forge:feathers" }
+    },
+    "result": {
+        "item": "multibeds:feather_pile"
+    }
+}
